@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+    font-size: 1.7rem;
+    gap: 1rem;
+}
+.nav-items li {
+    padding: 1rem;
+}
+.nav {
+    display: flex;
+    gap: 42rem;
+    align-items: center;
+}
+.nav img {
+    margin-left: 25px;
+}
+
